@@ -1,0 +1,3 @@
+[submodule "Jenkinsfile"]
+	path = Jenkinsfile
+	url = https://github.com/ddorahee/Jenkinsfile
